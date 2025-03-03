@@ -1,3 +1,6 @@
 [submodule "fei"]
 	path = fei
 	url = https://github.com/Aricas77/fei.git
+[submodule "40270"]
+	path = 40270
+	url = https://github.com/Aricas77/40270.git
