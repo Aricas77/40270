@@ -7,5 +7,4 @@ const Lista = AudioParamMap.querySelectorAll('img')
 console.log(Lista)
 for (let i = 0; i < Lista.length; i++) {
     //const element = array[index];
-    
-} 
+}
