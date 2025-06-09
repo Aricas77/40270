@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pizzas>
+  <pizza>
+    <nombre>Margherita</nombre>
+    <ingredientes>Tomate, Mozzarella, Albahaca</ingredientes>
+    <precio>120</precio>
+  </pizza>
+  <pizza>
+    <nombre>Pepperoni</nombre>
+    <ingredientes>Pepperoni, Queso, Salsa de tomate</ingredientes>
+    <precio>150</precio>
+  </pizza>
+  <pizza>
+    <nombre>Vegetariana</nombre>
+    <ingredientes>Champiñones, Pimientos, Aceitunas, Cebolla</ingredientes>
+    <precio>130</precio>
+  </pizza>
+  <pizza>
+    <nombre>Cuatro Quesos</nombre>
+    <ingredientes>Mozzarella, Cheddar, Gorgonzola, Parmesano</ingredientes>
+    <precio>160</precio>
+  </pizza>
+</pizzas>
